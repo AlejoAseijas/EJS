@@ -13,3 +13,12 @@
  */
 
 #include <stdio.h>
+#include "./models/producto.h"
+#include <string.h>
+
+int main()
+{
+
+       // Código que utiliza la estructura Producto
+    return 0;
+}
